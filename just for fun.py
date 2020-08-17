@@ -1,1 +1,1 @@
-print('ganesh')
+print('ganes')
